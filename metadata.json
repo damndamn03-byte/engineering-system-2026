@@ -1,0 +1,6 @@
+{
+  "name": "工程排程管理系統",
+  "description": "支援上傳 MPP、XER、XLSX 或 PDF 工期檔案，實時檢視今日及未來排程，支援微調工期延遲自動更新後續關聯工項及最終工期，並可連結 Google Drive 自動儲存與載入進度。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
